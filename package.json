@@ -4,7 +4,7 @@
   "description": "Hubot masters aws commands",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/yoheimuta/hubot-aws.git"
+    "url": "ssh://git@github.com/smahbod2014/hubot-aws.git"
   },
   "main": "index.coffee",
   "scripts": {
